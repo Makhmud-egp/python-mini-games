@@ -9,6 +9,12 @@ First to reach 3 points wins the match!
 3. The winner of each round gets 1 point
 4. First to reach 3 points is the winner!
 
+## Game Rules
+- **Rock** beats **Scissors** (Rock crushes Scissors)
+- **Scissors** beats **Paper** (Scissors cut Paper)
+- **Paper** beats **Rock** (Paper covers Rock)
+- If both players choose the same item, it’s a **draw** and no points are awarded.
+
 ## Requirements
 - Python 3.x
 
